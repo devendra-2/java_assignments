@@ -1,0 +1,8 @@
+package basicprograms;
+
+public class Student {
+public static void main(String[] args) 
+{
+	
+}
+}
